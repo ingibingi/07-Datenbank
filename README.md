@@ -181,5 +181,27 @@ public class Employee {
     System.out.println(printText);
   }
 }
+```
+## Ergebnis
+- Sämtliche Informationen werden ausgegeben.
+- Die Lesbarkeit könnte durch Padding verbessert werden.
+```Ausgabe
+C:\Users\ingos\.jdks\openjdk-22.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\lib\idea_rt.jar=55720:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\ingos\coding\Berufsschule\IT-Labor\07_Datenbank\untitled\out\production\DB Einbindung;C:\Users\ingos\Downloads\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0.jar" Main
+7369	SMITH	CLERK	7902	1980-12-17	800.0	0.0	20
+7499	ALLEN	SALESMAN	7698	1981-02-20	1600.0	300.0	30
+7521	WARD	SALESMAN	7698	1981-02-22	1250.0	500.0	30
+7566	JONES	MANAGER	7839	1981-04-02	2975.0	0.0	20
+7654	MARTIN	SALESMAN	7698	1981-09-28	1250.0	1400.0	30
+7698	BLAKE	MANAGER	7839	1981-05-01	2850.0	0.0	30
+7782	CLARK	MANAGER	7839	1981-06-09	2450.0	0.0	10
+7788	SCOTT	ANALYST	7566	1987-04-19	3000.0	0.0	20
+7839	KING	PRESIDENT	0	1981-11-17	5000.0	0.0	10
+7844	TURNER	SALESMAN	7698	1981-09-08	1500.0	0.0	30
+7876	ADAMS	CLERK	7788	1987-05-23	1100.0	0.0	20
+7900	JAMES	CLERK	7698	1981-12-03	950.0	0.0	30
+7902	FORD	ANALYST	7566	1981-12-03	3000.0	0.0	20
+7934	MILLER	CLERK	7782	1982-01-23	1300.0	0.0	10
+
+Process finished with exit code 0
 
 ```
