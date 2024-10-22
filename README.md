@@ -3,7 +3,7 @@ Autor: Ingo Schlapschy
 Ort: LBS Eibiswald
 Gruppe: 24/25 LG1 2aAPC INFv JRZ
 Datum: 2024-10-01
-AbgabeErledigt: false
+AbgabeErledigt: true
 ---
 # Angabe
 - [Link zur Angabe](https://www.eduvidual.at/mod/assign/view.php?id=6290148)
